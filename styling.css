@@ -1,0 +1,48 @@
+.title{
+    color: blue;
+    font-family: roboto;
+    text-align: center;
+
+
+
+
+}
+
+#blue-bordered{
+  color: red;
+  
+    border: 5px dashed blue;
+
+
+}
+.box p{
+    color: red;
+}
+article>p{
+    font-weight: bold;
+    background-color: #333;
+    color: #fff;
+    padding: .5em;
+}  
+h1+p{
+    font-weight: bold;
+    background-color: #333;
+    color: #fff;
+    padding: .5em;
+}
+h1~p{
+    font-weight: bold;
+    background-color: red;
+    color: #fff;
+    padding: .5em;
+
+
+}
+
+
+
+
+
+
+
+
